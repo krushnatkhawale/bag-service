@@ -18,6 +18,7 @@
 *.ipr
 /out/
 /app/out/
+/app/build/
 
 ### NetBeans ###
 /nbproject/private/

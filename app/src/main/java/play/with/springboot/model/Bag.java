@@ -12,8 +12,9 @@ import java.util.UUID;
 @NoArgsConstructor
 @AllArgsConstructor
 @ToString
-public class Parking {
+public class Bag {
     @Id
-    private UUID id;
+    private int id;
     private String type;
+    private int capacity;
 }
